@@ -1,4 +1,11 @@
 # DevOps-Work-Files
+# CI/CD Pipeline for Containerized Web Application
+
+A production-style Jenkins CI/CD pipeline with GitHub webhook integration, Docker containerization, 
+and automated deployment to AWS EC2. Includes environment-based config (dev/prod) and CloudWatch monitoring.
+
+**Tech Stack:** Jenkins | GitHub | Docker | AWS EC2 | Kubernetes | Nginx | CloudWatch
+
 ## Repository structure
 
 - **DevOps Task**  
